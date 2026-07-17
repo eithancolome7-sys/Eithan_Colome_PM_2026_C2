@@ -1,0 +1,64 @@
+{
+  "Alumnos": [
+    {
+      "Nombre": "Marie",
+      "Apellido": "Curie",
+      "Promedio": 10,
+      "Materia": "Química Orgánica"
+    },
+    {
+      "Nombre": "Leonardo",
+      "Apellido": "da Vinci",
+      "Promedio": 9.8,
+      "Materia": "Dibujo Técnico"
+    },
+    {
+      "Nombre": "Tony",
+      "Apellido": "Stark",
+      "Promedio": 9.5,
+      "Materia": "Robótica Avanzada"
+    },
+    {
+      "Nombre": "Ada",
+      "Apellido": "Lovelace",
+      "Promedio": 10,
+      "Materia": "Algoritmos I"
+    },
+    {
+      "Nombre": "Marco",
+      "Apellido": "Polo",
+      "Promedio": 8.5,
+      "Materia": "Geografía Mundial"
+    },
+    {
+      "Nombre": "Sherlock",
+      "Apellido": "Holmes",
+      "Promedio": 9.9,
+      "Materia": "Lógica y Deducción"
+    },
+    {
+      "Nombre": "Peter",
+      "Apellido": "Parker",
+      "Promedio": 8.2,
+      "Materia": "Fotografía Editorial"
+    },
+    {
+      "Nombre": "Bruce",
+      "Apellido": "Wayne",
+      "Promedio": 9.0,
+      "Materia": "Criminología"
+    },
+    {
+      "Nombre": "Clark",
+      "Apellido": "Kent",
+      "Promedio": 8.8,
+      "Materia": "Periodismo de Investigación"
+    },
+    {
+      "Nombre": "Indiana",
+      "Apellido": "Jones",
+      "Promedio": 7.5,
+      "Materia": "Arqueología"
+    }
+  ]
+}

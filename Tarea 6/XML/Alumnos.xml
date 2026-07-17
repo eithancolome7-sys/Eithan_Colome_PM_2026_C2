@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Alumnos>
+<Alumno>
+<Nombre>Carlos</Nombre>
+<Apellido>Mendoza</Apellido>
+<Promedio>8.5</Promedio>
+<Materia>Introducción a la Ingeniería</Materia>
+</Alumno>
+<Alumno>
+<Nombre>Laura</Nombre>
+<Apellido>Gómez</Apellido>
+<Promedio>9.2</Promedio>
+<Materia>Cálculo Diferencial</Materia>
+</Alumno>
+<Alumno>
+<Nombre>Mateo</Nombre>
+<Apellido>Rosario</Apellido>
+<Promedio>4.0</Promedio>
+<Materia>Circuitos Eléctricos</Materia>
+</Alumno>
+<Alumno>
+<Nombre>Sofía</Nombre>
+<Apellido>Vargas</Apellido>
+<Promedio>7.8</Promedio>
+<Materia>Química General</Materia>
+</Alumno>
+<Alumno>
+<Nombre>Diego</Nombre>
+<Apellido>Martí</Apellido>
+<Promedio>10</Promedio>
+<Materia>Base de Datos</Materia>
+</Alumno>
+<Alumno>
+<Nombre>Elena</Nombre>
+<Apellido>Sánchez</Apellido>
+<Promedio>9.5</Promedio>
+<Materia>Programación Orientada a Objetos</Materia>
+</Alumno>
+<Alumno>
+<Nombre>Lucas</Nombre>
+<Apellido>Contreras</Apellido>
+<Promedio>3.5</Promedio>
+<Materia>Álgebra Lineal</Materia>
+</Alumno>
+<Alumno>
+<Nombre>Valeria</Nombre>
+<Apellido>Almonte</Apellido>
+<Promedio>9.7</Promedio>
+<Materia>Termodinámica</Materia>
+</Alumno>
+<Alumno>
+<Nombre>Adrián</Nombre>
+<Apellido>Mejía</Apellido>
+<Promedio>6.0</Promedio>
+<Materia>Filosofía y Ética</Materia>
+</Alumno>
+<Alumno>
+<Nombre>Camila</Nombre>
+<Apellido>Reyes</Apellido>
+<Promedio>10</Promedio>
+<Materia>Diseño Asistido por Computadora</Materia>
+</Alumno>
+</Alumnos>
